@@ -1,2 +1,2 @@
-# my-quiz-app
-ທົດສອບຕົວເອງ ແລະ ອື່ນໆ
+# Error 404
+pls try again! and waite your internet
